@@ -1,4 +1,6 @@
 # Coursera-GenerativeAI-with-LLMs
+## Certificate: https://coursera.org/share/73fd105199bc7bfd78dffc41209969f8
+
 
 ## Week 1:
 
